@@ -8,4 +8,7 @@ Raise questions above in the Issues area
 
 ## Ghost support links
 
+Ghost FAQ https://help.ghost.org/hc/en-us
+
+
 
