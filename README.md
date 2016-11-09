@@ -10,5 +10,7 @@ Raise questions above in the Issues area
 
 Ghost FAQ https://help.ghost.org/hc/en-us
 
+Using Ghost https://help.ghost.org/hc/en-us/articles/224938667-How-to-Use-Ghost
+
 
 
